@@ -1,0 +1,10 @@
+v0.8 source root:
+LOCAL_V08_SOURCE_CHECKOUT
+
+git top level:
+not available
+
+git HEAD:
+not available
+
+git status --short:
