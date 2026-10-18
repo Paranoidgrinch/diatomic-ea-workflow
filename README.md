@@ -5,7 +5,7 @@ energy curves**. Version 0.9 is the bridge between the two EA projects:
 
 | Project | Approach |
 | --- | --- |
-| [DiatomicEA](https://github.com/Paranoidgrinch/diatomic-ea) (v1.0) | fixed DFT ensemble, calibrated prediction intervals — fast, but blind to which electronic state it lands in |
+| [DiatomicEA](https://github.com/Paranoidgrinch/diatomic-ea) (v1.0) | fixed DFT ensemble with calibrated prediction intervals — fast, but without explicit tracking of electronic states |
 | **diatomic-ea-workflow** (v0.9, this one) | explicit discovery and following of neutral and anion ground states along the bond-length curve, with stability checks and full provenance |
 | [OpenEA Benchmark](https://github.com/Paranoidgrinch/openea-benchmark) | the successor: state-aware coupled-cluster workflow with CBS limit and corrections — **use this one** |
 
